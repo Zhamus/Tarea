@@ -40,7 +40,7 @@
 						<th>Nombre</th>
 						<th>Apellido</th>
 						<th>Calle</th>
-						<th>Accines</th>
+						<th>Acciones</th>
 					</tr>
 				</thead>
 				<tbody>
